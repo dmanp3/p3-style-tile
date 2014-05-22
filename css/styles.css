@@ -15,10 +15,15 @@ h1 {
 }
 
 h2 {
-	font-family: 'Dorsa', sans-serif;
+	font-family: 'Josefin Slab', serif;
 	color: #60676B;
 	font-size: 30px;
 	letter-spacing: 3px;
+}
+h3 {
+	font-family: 'Abel', sans-serif;
+	letter-spacing: -2px;
+	font-size: 25px;
 }
 
 p {
