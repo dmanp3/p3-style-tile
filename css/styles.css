@@ -3,9 +3,53 @@ h2, h3, p {
 	margin: 0;
 }
 
+img {
+	width: 300px;
+}
+
 /* Layout for Style Tile*/
+
+h1 {
+	font-family: 'Alegreya Sans SC', sans-serif;
+
+}
+
+h2 {
+	font-family: 'Dorsa', sans-serif;
+	color: #60676B;
+	font-size: 30px;
+	letter-spacing: 3px;
+}
+
+p {
+	font-family: 'Abel', sans-serif;
+}
+
 section {
 	margin: 20px 0;
+}
+
+
+.color-1 {
+	background: #6CE4C4
+}
+
+.color-2 {
+	background: #60676B
+}
+
+.color-3 {
+	background: #FC8935
+}
+
+.pattern-1 {
+	background: url("../img/graffiti5.jpg") no-repeat;
+}
+.pattern-2 {
+	background: url("../img/brokenwindow.jpg");
+}
+.pattern-3 {
+	background-image: url("../img/gum.jpeg");
 }
 
 .color-1,
